@@ -7,19 +7,25 @@ This repository contains all the code and files required to build Weather app.
 
 ##Snippets
  <p align='center'>
-  <img src="ttt1.png">
+  <img src="w1.png">
   </p>
  <br>
  <br>
  <p align='center'>
-  <img src="ttt2.png">
+  <img src="w2.png">
   </p>
   
  <br>
  <br>
  
  <p align='center'>
-  <img src="ttt3.png">
+  <img src="w3.png">
+  </p>
+  <br>
+ <br>
+ 
+ <p align='center'>
+  <img src="w4.png">
   </p>
 
 ## About Me:
