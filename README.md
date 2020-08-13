@@ -5,6 +5,23 @@ This is weather app developed using django.
 This is app developed in python using django framework. Django is a famous python framework which is used to develop web applications. Weather app is one of those applications developed by using django. It uses open weather api which gives live weather conditions of city. The data is updated in every 10 minutes.<br>
 This repository contains all the code and files required to build Weather app.
 
+##Snippets
+ <p align='center'>
+  <img src="ttt1.png">
+  </p>
+ <br>
+ <br>
+ <p align='center'>
+  <img src="ttt2.png">
+  </p>
+  
+ <br>
+ <br>
+ 
+ <p align='center'>
+  <img src="ttt3.png">
+  </p>
+
 ## About Me:
 Omkar Atugade,<br>
 Mumbai, Maharashtra, India.
